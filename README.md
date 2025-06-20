@@ -62,12 +62,6 @@ The goal of Wander & Wellness is to merge two modern needs: **exploration** and 
 
 ---
 
-## 👩‍💻 Author
-
-**Charitha**  
-Created for personal learning, creativity, and to share positive vibes through web design. ✨
-
----
 
 ## 📄 License
 
